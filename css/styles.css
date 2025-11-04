@@ -1,0 +1,36 @@
+.whitetext{
+	color: white;
+	text-shadow: 2px 2px 3px #000000;
+}
+
+.first_img{
+	width: 50%;
+	float: left;
+	margin-left: 2%;
+}
+
+.second_img{
+	width: 35%;
+	float: right;
+	border-style: solid;
+	border-color: black;
+	margin-right: 6.25%;
+}
+
+.third_img{
+	float: right;
+	margin-right: 6.25%;
+	margin-top: 3%;
+}
+
+.fourth_img{
+	float: left;
+	margin-left: 2%;
+	margin-top: 4%;
+	margin-bottom: 2%
+}
+
+body{
+	background-image: url("../images/background/images.jpg");
+	background-size: cover;
+}
